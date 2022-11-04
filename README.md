@@ -46,9 +46,6 @@
 <br>
 
 
-![Snake animation](https://github.com/gaberelaa/gaberelaa/blob/output/github-contribution-grid-snake.svg)
-
-
 <br>
 
 ## ✨ Main Skills
