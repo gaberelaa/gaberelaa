@@ -45,9 +45,9 @@
 
 <br>
 
-<div align="center">
- ![Snake animation](https://github.com/gaberelaa/gaberelaa/blob/output/     github-contribution-grid-snake.svg)
-</div>
+
+![Snake animation](https://github.com/gaberelaa/gaberelaa/blob/output/github-contribution-grid-snake.svg)
+
 
 <br>
 
@@ -77,7 +77,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaberelaa&layout=compact&hide_border=true&title_color=B58DE0&text_color=B58DE0&bg_color=0d1117" />
 </div>
   
-
+<br>
 
 <div align="center">
   <a href="https://github.com/gaberelaa">
