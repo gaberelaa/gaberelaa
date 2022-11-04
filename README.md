@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/gaberelaa)
-
 <div align="center">
   <a href="https://github.com/gaberelaa">
     <img src="gaberelaa.png">
