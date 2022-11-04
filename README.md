@@ -5,19 +5,19 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/andreinaoliveira" target="_blank">
+  <a href="https://github.com/gaberelaa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-B58DE0?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:andreinaholiveira@gmail.com">
+  <a href = "mailto:zuninogabi@gmail.com">
     <img src="https://img.shields.io/badge/mail-B58DE0?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielazunino/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-B58DE0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/prinsycho" target="_blank">
+  <a href="https://instagram.com/gaberelaa/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-B58DE0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
- <a href="https://steamcommunity.com/id/prinsycho" target="_blank">
+ <a href="https://steamcommunity.com/id/gaberela/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-B58DE0?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   </a>
 </div>
